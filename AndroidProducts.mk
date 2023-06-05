@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_Spacewar.mk
+    $(LOCAL_DIR)/evolution_Spacewar.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_Spacewar-userdebug \
-    aosp_Spacewar-user \
-    aosp_Spacewar-eng
+    evolution_Spacewar-userdebug \
+    evolution_Spacewar-user \
+    evolution_Spacewar-eng
